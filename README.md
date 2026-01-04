@@ -127,9 +127,6 @@ Inside the **Extension Development Host** window:
 - 🚀 Code optimization suggestions
 - 💬 Follow-up questions support
 - 🧠 Markdown formatted responses
-
----
-
 ## ⚠️ Important Notes
 
 - Do **NOT** open the parent `AI_BUDDY` folder while running the extension
