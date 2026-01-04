@@ -1,0 +1,53 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  padding: 16px;
+  line-height: 1.6;
+}
+
+.user {
+  background: #92bfec;
+  border-left: 4px solid #007acc;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  color: #1e1e1e;
+}
+
+.ai {
+  background: #f6f6f6;
+  border-left: 4px solid #4caf50;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  color: #1e1e1e;
+}
+
+pre {
+  background: #1e1e1e;
+  color: #d4d4d4;
+  padding: 12px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+#input{
+  border-radius: 5px;
+  border-color: #1e1e1e;
+  width: 80%;
+  height: 2rem;
+  padding: .5rem;
+  font-size: 2rem,;
+}
+
+.userInput{
+  padding: 0 3% 0 3% ;
+  display: flex;
+  justify-content: space-between;
+}
+
+#send{
+  direction: none;
+  background-color: #4caf50;
+  border-radius: 10%;
+  cursor: pointer;
+}
